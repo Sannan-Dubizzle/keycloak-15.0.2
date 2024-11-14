@@ -1,0 +1,6 @@
+#FileLock
+#Thu Nov 14 16:36:27 PKT 2024
+server=172.16.250.10\:54679
+hostName=172.16.250.10
+method=file
+id=1932a75ac116d1ba915632f13961db6a3d3284c1930

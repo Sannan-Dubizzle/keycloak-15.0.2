@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<module xmlns="urn:jboss:module:1.1" name="com.googlecode.libphonenumber">
+
+    <resources>
+        <resource-root path="libphonenumber-8.13.47.jar"/>
+    </resources>
+</module>
